@@ -1,2 +1,3 @@
 # stunning-spork-name-cause-github-told-me-to
 assignment 2/17/2k23
+hello! this is my repository that is named accordingly. in this short spork guide, i will tell you all types of sporks. the first is a normal sppon and fork spork, rated 7/10, a reliable tool. the second is the long spork. combining forks, spoons and knives, good for meat but other than that a bit too long for average use 6/10. the final spork we will talk about is the fork spork. this fork dominant spork has longer fork prongs, smaller spoon scoop and a small cutting edge. in terms of usability, perfect for most situations 9/10 for most dinners, but soups take away the extra point. Buy Your Own Spork TODAY AT SPORK CITY(a division of Spatuala city, all right reserved)
