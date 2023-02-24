@@ -1,0 +1,20 @@
+img {
+  border: 5px dashed #0000FF;
+  margin: 15px;
+}
+p {
+  font-family: Arial;
+}
+h1 {
+  color: #00FF00;
+  font-family: Palatino;
+}
+h2 {
+  color: #FFC0CB;
+  font-family: courier;
+}
+#p.fancy {
+  background-color: #FFFFE0;
+  border: solid ##FFA500;
+}
+  
